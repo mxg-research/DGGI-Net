@@ -1,4 +1,4 @@
-~~# DGGI-Net
+# DGGI-Net
 
 Code for the paper: **"Dynamic Graph-Guided Imputation Network for Partial Multi-View Incomplete Multi-Label Classification"**.
 
